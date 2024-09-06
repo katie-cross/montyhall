@@ -1,1 +1,1 @@
-# montyhall
+# montyhall simulation package for Katie Cross hw assignment.
